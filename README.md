@@ -9,7 +9,7 @@
 
     * installation
 
-      to run thius project , following steps to follow---
+      to run this project , following steps to follow---
       1> clone the github repository.
       2> in your browser open the main html file.
       3> enjoy the browsing and looks upon various books.
